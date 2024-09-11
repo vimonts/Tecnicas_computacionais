@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Sobre a Geografia...";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
