@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Continente",
-                afirmacao: "Correto. "
+                afirmacao: "A geografia é uma ciência fundamental que estuda a Terra e suas relações com os seres humanos. Ela investiga a distribuição de fenômenos naturais e humanos pelo espaço, oferecendo uma compreensão abrangente do planeta."
             },
             {
                 texto: "País",
-                afirmacao: "Errado."
+                afirmacao: "A geografia é uma ciência fundamental que estuda a Terra e suas relações com os seres humanos. Ela investiga a distribuição de fenômenos naturais e humanos pelo espaço, oferecendo uma compreensão abrangente do planeta."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "7 Continentes",
-                afirmacao: "Errado."
+                afirmacao: "A geografia física se concentra nos processos naturais da Terra, como clima, relevo, vegetação e hidrografia. Entender esses aspectos é essencial para o planejamento ambiental, preservação dos ecossistemas e prevenção de desastres naturais."
             },
             {
                 texto: "6 Continentes",
-                afirmacao: "Correto."
+                afirmacao: "A geografia física se concentra nos processos naturais da Terra, como clima, relevo, vegetação e hidrografia. Entender esses aspectos é essencial para o planejamento ambiental, preservação dos ecossistemas e prevenção de desastres naturais."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Argentina",
-                afirmacao: "Errado."
+                afirmacao: "A geografia humana estuda as sociedades, suas culturas, economias e como se organizam espacialmente. Ao analisar as interações entre grupos humanos e o espaço que ocupam, a geografia revela como fatores econômicos, políticos e culturais influenciam a distribuição da população, a urbanização e os movimentos migratórios."
             },
             {
                 texto: "Brasil",
-                afirmacao: "Correto."
+                afirmacao: "A geografia humana estuda as sociedades, suas culturas, economias e como se organizam espacialmente. Ao analisar as interações entre grupos humanos e o espaço que ocupam, a geografia revela como fatores econômicos, políticos e culturais influenciam a distribuição da população, a urbanização e os movimentos migratórios."
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Russia",
-                afirmacao: "Correto"
+                afirmacao: "A geografia também tem um papel crucial na geopolítica, ajudando a entender as relações de poder entre nações e a importância estratégica de certas regiões. Ao estudar fronteiras, recursos naturais e zonas de conflito, a geografia oferece insights valiosos para a diplomacia e a solução de conflitos internacionais."
             },
             {
                 texto: "Estados Unidos",
-                afirmacao: "Errado"
+                afirmacao: "A geografia também tem um papel crucial na geopolítica, ajudando a entender as relações de poder entre nações e a importância estratégica de certas regiões. Ao estudar fronteiras, recursos naturais e zonas de conflito, a geografia oferece insights valiosos para a diplomacia e a solução de conflitos internacionais."
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "China",
-                afirmacao: "Correto"
+                afirmacao: "As aplicações da geografia são vastas, desde o uso de tecnologias de sensoriamento remoto e sistemas de informação geográfica (SIG) até o planejamento urbano e ambiental. No futuro, a geografia continuará a ser crucial para enfrentar desafios globais como as mudanças climáticas, a escassez de recursos e a sustentabilidade, ajudando a criar um mundo mais equilibrado e consciente."
             },
             {
                 texto: "Índia",
-                afirmacao: "Errado"
+                afirmacao: "As aplicações da geografia são vastas, desde o uso de tecnologias de sensoriamento remoto e sistemas de informação geográfica (SIG) até o planejamento urbano e ambiental. No futuro, a geografia continuará a ser crucial para enfrentar desafios globais como as mudanças climáticas, a escassez de recursos e a sustentabilidade, ajudando a criar um mundo mais equilibrado e consciente."
             }
         ]
     },
