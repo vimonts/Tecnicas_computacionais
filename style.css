@@ -1,7 +1,7 @@
 :root{
     --cor-fundo: #2F4F4F;
     --cor-principal: #676767;
-    --cor-secundaria: #2F2F2F3; 
+    --cor-secundaria: #2F2F2F; 
     --cor-destaque: #000000;
     --cor-texto: #FFFFFF;
 
@@ -13,7 +13,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 150vh;
+    min-height: 75vh;
 }
 
 .caixa-principal{
